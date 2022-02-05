@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FabShape1">
+        <item name="cornerSize">50%</item>
+<!--        <item name="cornerFamilyTopLeft">cut</item>-->
+<!--        <item name="cornerFamilyTopRight">cut</item>-->
+<!--        <item name="cornerFamilyBottomLeft">cut</item>-->
+<!--        <item name="cornerFamilyBottomRight">cut</item>-->
+
+    </style>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/audio"
+        android:icon="@drawable/audio"
+        android:title="@string/audio"/>
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/video"
+        android:title="@string/video"/>
+    <item
+        android:id="@+id/vocabulary"
+        android:icon="@drawable/vocabulary"
+        android:title="@string/vocabulary"/>
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/info"
+        android:title="@string/info"/>
+
+</menu>

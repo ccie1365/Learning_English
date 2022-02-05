@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">آموزش گرامر در زبان انگلیسی</string>
+    <string name="zero">0:00</string>
+    <string name="splashText">به دوره آموزش گرامر در زبان انگلیسی خوش آمدید</string>
+    <string name="list_audio">فهرست دروس</string>
+    <string name="audio">دروس صوتی</string>
+    <string name="video">دروس تصویری</string>
+    <string name="info">درباره من</string>
+    <string name="about_me">با عرض سلام خدمت زبان آموزان گرامی.اینجانب جواد مظفری،مدرس زبان انگلیسی و سازنده این برنامه می باشم.لطفا نظرات و پیشنهادات خود را در خصوص کیفیت این برنامه و محتوای آموزشی آن به آدرس ایمیل ذکر شده در پایین این متن ارسال فرمایید.با تشکر از شما عزیزان.</string>
+    <string name="email">ccie.cisco2020@gmail.com</string>
+    <string name="vocabulary">لغات شما</string>
+    <string name="new_vocab">ثبت لغت جدید</string>
+
+    <string name="word">لغت</string>
+    <string name="meaning">معنی</string>
+    <string name="save">ذخیره</string>
+    <string name="delete">حذف</string>
+</resources>

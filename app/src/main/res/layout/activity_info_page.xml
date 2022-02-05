@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.javad_mozaffari.grammar.InfoPage"
+    android:background="#CBC6B8">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="40dp">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/my_photo"
+            android:src="@drawable/i"
+           android:scaleType="fitXY"
+            android:adjustViewBounds="true"/>
+
+        <com.javad_mozaffari.grammar.JustifiedTextView
+            android:id="@+id/txtJustify"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:padding="20dp"
+            android:layout_margin="8dp"/>
+
+        
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/email"
+            android:gravity="center"
+            android:textColor="#A51A1A"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
